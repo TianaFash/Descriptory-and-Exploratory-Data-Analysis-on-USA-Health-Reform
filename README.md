@@ -58,7 +58,7 @@ Florida leads in Marketplace health insurance coverage, providing coverage to ov
 
 ![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/0f9111e3-b12c-4d2b-8878-962468d64a2d)
 
-# The Final Dashboard
+## The Final Dashboard
 
 ![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/76c68da1-2074-442e-a350-8ed28377e9c1)
 
