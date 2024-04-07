@@ -1,4 +1,4 @@
-# Impact of the Affordable Care Act (ACA) on Coverage: A-Five-Year-Post-Implementation-Analysis
+# Impact Analysis of the Affordable Care Act (ACA) on Coverage: A Data Exploration of State-Specific Health Insurance Coverage
 ## Background
 The Affordable Care Act (ACA), commonly referred to as Obamacare, was signed into law on March 23, 2010, to advance health equity across diverse demographics in the United States. It stands as one of the most significant and debated pieces of healthcare legislation in U.S. history. Given its importance, it is imperative to evaluate the ACA's impact on the American populace.
 
@@ -26,4 +26,11 @@ Microsoft PowerBI
 3.	**Changed Data Types**: Aligned data types with their respective values, converting decimals to whole numbers where necessary for consistency and clarity.
 4.	**Replaced Null Values**: Substituted missing values in text fields with "NA" and numerical fields with "0" to standardize the dataset and facilitate analysis.
 5.	**Created New Column**: Introduced a new column to replace the Medicaid Enrollment Change column. This was done to categorize and sort the instances where there were blank cells identified in the Medicaid Enrollment column for the year 2013. This column enables a more complete and accurate analysis of the data points.
+
+## Descriptive and Exploratory Analysis
+The combination of descriptive and exploratory analyses provides valuable insights into the trends, identifies causal relationship between new policy implementation and health insurance outcomes across various states as well as address pertinent questions:
+- How has the Affordable Care Act changed the rate of citizens with health insurance coverage? 
+- Which states observed the greatest decline in their uninsured rate? 
+- Did those states expand Medicaid program coverage?
+
 
