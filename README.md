@@ -9,7 +9,7 @@ This analysis explores the impact of the Affordable Care Act (ACA) over 5 years 
 The analysis investigates the relationship between the implementation of Medicaid expansion in 2016 and changes in uninsured rates across states by comparing the uninsured rate change trends from 2010 to 2015 with the Medicaid expansion status in 2016, insights are drawn regarding the effectiveness of Medicaid expansion in reducing the uninsured population.
 Utilizing a comprehensive dataset, this analysis provides insights into health insurance coverage data for each state and the nation. This includes variables such as uninsured rates post-ACA, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs.
 This project offers valuable insights for researchers, policymakers, and analysts seeking to understand the impact of the ACA on health insurance coverage and inform future healthcare policy decisions.
-## Data Source
+## Data Sources
 The data source for information on the Affordable Care Act (ACA), also known as Obamacare, was compiled from reputable sources:
 1.	The U.S. Department of Health & Human Services (HHS), particularly sections dedicated to ACA implementation and updates and the US Census Bureau.
 2.	Reports and publications from government agencies like the Centers for Medicare & Medicaid Services (CMS), oversee ACA implementation and healthcare programs.
