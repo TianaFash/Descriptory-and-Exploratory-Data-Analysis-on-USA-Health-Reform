@@ -19,4 +19,11 @@ The data source for information on the Affordable Care Act (ACA), also known as 
 
 This dataset offers comprehensive insights into health insurance coverage for each state and the nation, including uninsured rates after Obamacare, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs. These combined sources provide credible information essential for analyzing the impact of healthcare policy changes, such as the ACA, on coverage rates and enrollment in various healthcare programs.
 ## Tool
+Microsoft PowerBI
+## Data Cleaning and Preparation
+1.	**Removed Bottom Row**: The row containing the total for the entire country was excluded as it does not represent the individual states.
+2.	**Removed Duplicates**: Ensured data accuracy and uniqueness by removing duplicate entries from the dataset.
+3.	**Changed Data Types**: Aligned data types with their respective values, converting decimals to whole numbers where necessary for consistency and clarity.
+4.	**Replaced Null Values**: Substituted missing values in text fields with "NA" and numerical fields with "0" to standardize the dataset and facilitate analysis.
+5.	**Created New Column**: Introduced a new column to replace the Medicaid Enrollment Change column. This was done to categorize and sort the instances where there were blank cells identified in the Medicaid Enrollment column for the year 2013. This column enables a more complete and accurate analysis of the data points.
 
