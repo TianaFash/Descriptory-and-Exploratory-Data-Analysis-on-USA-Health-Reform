@@ -1,4 +1,4 @@
-# Impact Analysis of the Affordable Care Act (ACA) on Coverage: A Data Exploration of State-Specific Health Insurance Coverage
+# Impact Analysis of the Affordable Care Act (ACA): A Data Exploration of State-Specific Health Insurance Coverage
 ## Background
 The Affordable Care Act (ACA), commonly referred to as Obamacare, was signed into law on March 23, 2010, to advance health equity across diverse demographics in the United States. It stands as one of the most significant and debated pieces of healthcare legislation in U.S. history. Given its importance, it is imperative to evaluate the ACA's impact on the American populace.
 
