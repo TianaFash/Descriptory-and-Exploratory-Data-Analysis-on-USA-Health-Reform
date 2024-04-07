@@ -15,7 +15,7 @@ The data source for information on the Affordable Care Act (ACA), also known as 
 2.	Reports and publications from government agencies like the Centers for Medicare & Medicaid Services (CMS), oversee ACA implementation and healthcare programs.
 3.	Congressional Budget Office (CBO) reports and analyses related to the ACA's fiscal impact and coverage projections.
 4.	Academic research studies and analyses published in peer-reviewed journals.
-5.	Qualitative data by a non-profit organization specializing in healthcare policy and reform – The Commonwealth Fund.
+5.	Qualitative data by government agencies and non-profit organizations specializing in healthcare policy and reform – The Commonwealth Fund and The National Institute for Health.
 
 This dataset offers comprehensive insights into health insurance coverage for each state, including uninsured rates after Obamacare, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs. These combined sources provide credible information which is essential for analyzing the impact of healthcare policy changes, such as the ACA, on coverage rates and enrollment in various healthcare programs.
 ## Tool
@@ -29,10 +29,14 @@ Microsoft PowerBI
 
   	![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/95d78887-d530-4e25-9b42-c1a30da530b5)
 ## Descriptive and Exploratory Analysis
-The combination of descriptive and exploratory analyses provides valuable insights into the trends, identifies the causal relationship between new policy implementation and health outcomes across various states as well as addresses pertinent questions:
-- How has the Affordable Care Act changed the rate of citizens with health insurance coverage? 
-- Which states observed the greatest decline in their uninsured rate? 
-- Did those states expand Medicaid program coverage?
+The combination of descriptive and exploratory analysis provides valuable insights into the trends, identifies the causal relationship between new policy implementation and health outcomes across various states as well as addresses pertinent questions:
+
+🔑 How has the Affordable Care Act changed the rate of citizens with health insurance coverage? 
+
+🔑 Which states observed the greatest decline in their uninsured rate? 
+
+🔑 Did those states expand Medicaid program coverage?
+
 ## Key Findings
 **Significant Increase in Health Coverage:** Following the implementation of the ACA, a significant increase in health insurance coverage was seen. Specifically, approximately 20 million more individuals obtained health insurance coverage nationwide within five years demonstrating the ACA's substantial impact on coverage rates.
 In 2016, the total enrollment in Medicare was 56 million and total employer healthcare coverage was 172 million, which offers a broader context to the positive impact of ACA in increasing health coverage.
