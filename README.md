@@ -56,8 +56,7 @@ Florida leads in Marketplace health insurance coverage, providing coverage to ov
 
 #The Final Dashboard
 
-![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/e05b0d08-f6b0-4f3d-bf1a-4c4f4d9f4f67)
-
+![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/76c68da1-2074-442e-a350-8ed28377e9c1)
 
 ## Conclusions
 The Affordable Care Act (ACA) has had a significant impact on the health insurance landscape in the United States. The descriptive analysis of the data reveals a substantial increase in overall health insurance coverage, with 20 million more individuals insured from 2010 to 2015. Additionally, Medicaid enrollment surged by 17 million from 2013 to 2016. The exploratory analysis suggests a strong correlation between states that expanded Medicaid and those that saw the largest decreases in uninsured rates. States like Washington, Colorado, Arkansas, and several others not only experienced significant reductions in their uninsured population but also took the proactive step to expand Medicaid coverage, which likely contributed to these outcomes.
