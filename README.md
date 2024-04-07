@@ -27,6 +27,7 @@ Microsoft PowerBI
 4.	**Replaced Null Values**: Substituted missing values in text fields with "NA" and numerical fields with "0" to standardize the dataset and facilitate analysis.
 5.	**Created New Column**: Introduced a new column to replace the Medicaid Enrollment Change column. This was done to categorize and sort the instances where there were blank cells identified in the Medicaid Enrollment column for the year 2013. This column enables a more complete and accurate analysis of the data points.
 
+  	![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/95d78887-d530-4e25-9b42-c1a30da530b5)
 ## Descriptive and Exploratory Analysis
 The combination of descriptive and exploratory analyses provides valuable insights into the trends, identifies the causal relationship between new policy implementation and health outcomes across various states as well as addresses pertinent questions:
 - How has the Affordable Care Act changed the rate of citizens with health insurance coverage? 
@@ -34,14 +35,18 @@ The combination of descriptive and exploratory analyses provides valuable insigh
 - Did those states expand Medicaid program coverage?
 ## Key Findings
 **Significant Increase in Health Coverage:** Following the implementation of the ACA, a significant increase in health insurance coverage was seen. Specifically, approximately 20 million more individuals obtained health insurance coverage nationwide within five years demonstrating the ACA's substantial impact on coverage rates.
-In 2016, the total enrollment in Medicare was 56 million and total employer healthcare coverage was 172 million, which offers a broader context to the positive impact of ACA in increasing coverage.
+In 2016, the total enrollment in Medicare was 56 million and total employer healthcare coverage was 172 million, which offers a broader context to the positive impact of ACA in increasing health coverage.
 
-**State-specific Reduction in Uninsured Rates:** The states below showed the most significant decrease in the percentage of uninsured residents reflecting the ACA's effectiveness in expanding coverage. Specifically, Nevada experienced the greatest decline in uninsured individuals between 2010 to 2015 with a percentage decrease of 10.30%. 
+**State-specific Reduction in Uninsured Rates:** The states below showed the most significant decrease in the percentage of uninsured residents reflecting the ACA's effectiveness in expanding coverage. Specifically, Nevada experienced the greatest decline in uninsured individuals between 2010 to 2015 with a percentage decrease of 10.30%. Other states with the reduction include Oregon, California and Kentucky.
 
+  ![ACA_Significant Reductions](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/157f552a-6960-43e9-8763-434dfe569f2b)
 
+**Impact of Medicaid Expansion Program**
+-Out of the fifty states in the US, 32 states expanded their Medicaid programs to cover individuals with limited income and resources at a certain threshold point. 
+- 17 million individuals were enrolled in the Medicaid program between 2013 to 2018.
+- Many States that have expanded Medicaid have experienced a notable reduction in uninsured rates among their populations except Florid. The data suggests that there is a strong correlation between the expansion of the Medicaid program and the decline in the number of uninsured individuals, conversely, states with non-expanded Medicaid programs have a high number of uninsured individuals.
 
-
-
+   ![ACA_Highest Uninsured Rate_2010_2015](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/8ec17788-8870-45b7-9eef-6832fb97186d)
 
 
 
