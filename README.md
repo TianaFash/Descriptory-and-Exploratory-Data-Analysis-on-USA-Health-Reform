@@ -31,7 +31,7 @@ Microsoft PowerBI
 ## Descriptive and Exploratory Analysis
 The combination of descriptive and exploratory analyses provides valuable insights into the trends, identifies the causal relationship between new policy implementation and health outcomes across various states as well as addresses pertinent questions:
 - How has the Affordable Care Act changed the rate of citizens with health insurance coverage? 
-- Which states observed the greatest and least decline in their uninsured rate? 
+- Which states observed the greatest decline in their uninsured rate? 
 - Did those states expand Medicaid program coverage?
 ## Key Findings
 **Significant Increase in Health Coverage:** Following the implementation of the ACA, a significant increase in health insurance coverage was seen. Specifically, approximately 20 million more individuals obtained health insurance coverage nationwide within five years demonstrating the ACA's substantial impact on coverage rates.
@@ -45,8 +45,40 @@ In 2016, the total enrollment in Medicare was 56 million and total employer heal
 -Out of the fifty states in the US, 32 states expanded their Medicaid programs to cover individuals with limited income and resources at a certain threshold point. 
 - 17 million individuals were enrolled in the Medicaid program between 2013 to 2018.
 - Many States that have expanded Medicaid have experienced a notable reduction in uninsured rates among their populations except Florid. The data suggests that there is a strong correlation between the expansion of the Medicaid program and the decline in the number of uninsured individuals, conversely, states with non-expanded Medicaid programs have a high number of uninsured individuals.
+  
+![ACA_Highest Uninsured Rate_2010_2015](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/8f6162f1-8a5c-49d2-8eba-6080c15c174c)
 
-   ![ACA_Highest Uninsured Rate_2010_2015](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/8ec17788-8870-45b7-9eef-6832fb97186d)
+**Highest Market Place**
+
+Florida leads in Marketplace health insurance coverage, providing coverage to over 1.5 million individuals. Following closely, California tops with approximately 1.4 million individuals covered, trailed by Texas with 1.1 million, North Carolina with 545 thousand, and Georgia with 478 thousand individuals covered, respectively. The data suggests that a significant number of people in these states are utilizing the ACA marketplace for their health insurance.
+
+![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/0f9111e3-b12c-4d2b-8878-962468d64a2d)
+
+#The Final Dashboard
+
+![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/e05b0d08-f6b0-4f3d-bf1a-4c4f4d9f4f67)
+
+
+## Conclusions
+The Affordable Care Act (ACA) has had a significant impact on the health insurance landscape in the United States. The descriptive analysis of the data reveals a substantial increase in overall health insurance coverage, with 20 million more individuals insured from 2010 to 2015. Additionally, Medicaid enrollment surged by 17 million from 2013 to 2016. The exploratory analysis suggests a strong correlation between states that expanded Medicaid and those that saw the largest decreases in uninsured rates. States like Washington, Colorado, Arkansas, and several others not only experienced significant reductions in their uninsured population but also took the proactive step to expand Medicaid coverage, which likely contributed to these outcomes.
+
+## Recommendations
+**Continue Medicaid Expansion**: States that have not yet expanded Medicaid should consider doing so, as the data indicates that expansion is associated with positive outcomes in reducing uninsured rates.
+
+**Data-Driven Policy Making**: Policymakers should employ data-driven approaches when crafting health care policy to ensure decisions are informed by the actual impacts of previous legislation like the ACA.
+
+**Further Research Studies**: More research is necessary to understand the causal mechanisms behind the ACA's impact. Longitudinal studies could provide deeper insights into how health outcomes and access to care have changed over time as a result of the ACA.
+
+**Monitor and Adapt**: Health insurance markets are dynamic, and as new data becomes available, continuous monitoring and adaptation of policies will be crucial to address emerging challenges and maintain the gains in coverage.
+
+**Increase Public Awareness**: Efforts should be made to increase public awareness about the benefits of health insurance coverage and the options available through the ACA, especially in states with high numbers of uninsured individuals.
+
+**Address Coverage Gaps**: Identify and implement targeted strategies to address persistent coverage gaps, ensuring that vulnerable populations, including those with low income or pre-existing conditions, receive adequate coverage.
+
+By following these recommendations, states and federal policymakers can work towards sustaining and improving the gains made in health insurance coverage, ultimately leading to a healthier population with better access to necessary medical care.
+
+
+  
 
 
 
