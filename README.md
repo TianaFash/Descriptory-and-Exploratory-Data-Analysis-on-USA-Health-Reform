@@ -1,23 +1,23 @@
 # Post-Implementation Analysis of the Affordable Care Act (ACA): A Review of State-Specific Health Insurance Coverage
 ## Background
-The Affordable Care Act (ACA), commonly referred to as Obamacare, was signed into law on March 23, 2010, to advance health equity across diverse demographics in the United States. It stands as one of the most significant and debated pieces of healthcare legislation in U.S. history. Given its importance, it is imperative to evaluate the ACA's impact on the American populace.
+The Affordable Care Act (ACA), commonly called Obamacare, was signed into law on March 23, 2010, to advance health equity across diverse demographics in the United States. It stands as one of the most significant and debated pieces of healthcare legislation in U.S. history. Given its importance, evaluating the ACA's impact on the American populace is imperative.
 
 Researchers, policymakers, and analysts can utilize the dataset provided in this project to gain comprehensive insights into the ACA's effectiveness in improving health insurance coverage. Furthermore, this dataset serves as a crucial resource for informing future healthcare policy decisions.
 ## Project Overview
-This analysis explores the impact of the Affordable Care Act (ACA) over 5 years post-implementation, focusing on key metrics such as health coverage, Medicaid expansion, and employer-provided insurance. It aims to understand how the ACA has influenced health insurance coverage in the United States, examining trends such as changes in insured individuals, shifts in Medicaid enrollment, and variations in uninsured rates across states.
+This analysis explores the impact of the Affordable Care Act (ACA) over 5 years post-implementation, focusing on key metrics such as health coverage, Medicaid expansion, and employer-provided insurance. It aims to understand how the ACA has influenced health insurance coverage in the United States. It examines trends such as changes in insured individuals, shifts in Medicaid enrollment, and variations in uninsured rates across states.
 
 The analysis investigates the relationship between the implementation of Medicaid expansion in 2016 and changes in uninsured rates across states by comparing the uninsured rate change trends from 2010 to 2015 with the Medicaid expansion status in 2016, insights are drawn regarding the effectiveness of Medicaid expansion in reducing the uninsured population.
-Utilizing a comprehensive dataset, this analysis provides insights into health insurance coverage data for each state and the nation. It includes variables such as uninsured rates post-ACA, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs.
+Utilizing a comprehensive dataset, this analysis provides insights into health insurance coverage data for each state and the nation. This includes variables such as uninsured rates post-ACA, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs.
 This project offers valuable insights for researchers, policymakers, and analysts seeking to understand the impact of the ACA on health insurance coverage and inform future healthcare policy decisions.
 ## Data Source
 The data source for information on the Affordable Care Act (ACA), also known as Obamacare, was compiled from reputable sources:
-1.	The U.S. Department of Health & Human Services (HHS), particularly sections dedicated to ACA implementation and updates and the and the US Census Bureau.
+1.	The U.S. Department of Health & Human Services (HHS), particularly sections dedicated to ACA implementation and updates and the US Census Bureau.
 2.	Reports and publications from government agencies like the Centers for Medicare & Medicaid Services (CMS), oversee ACA implementation and healthcare programs.
 3.	Congressional Budget Office (CBO) reports and analyses related to the ACA's fiscal impact and coverage projections.
 4.	Academic research studies and analyses published in peer-reviewed journals.
 5.	Qualitative data by a non-profit organization specializing in healthcare policy and reform – The Commonwealth Fund.
 
-This dataset offers comprehensive insights into health insurance coverage for each state and the nation, including uninsured rates after Obamacare, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs. These combined sources provide credible information essential for analyzing the impact of healthcare policy changes, such as the ACA, on coverage rates and enrollment in various healthcare programs.
+This dataset offers comprehensive insights into health insurance coverage for each state, including uninsured rates after Obamacare, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs. These combined sources provide credible information which is essential for analyzing the impact of healthcare policy changes, such as the ACA, on coverage rates and enrollment in various healthcare programs.
 ## Tool
 Microsoft PowerBI
 ## Data Cleaning and Preparation
@@ -42,7 +42,7 @@ In 2016, the total enrollment in Medicare was 56 million and total employer heal
   ![ACA_Significant Reductions](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/157f552a-6960-43e9-8763-434dfe569f2b)
 
 **Impact of Medicaid Expansion Program**
--Out of the fifty states in the US, 32 states expanded their Medicaid programs to cover individuals with limited income and resources at a certain threshold point. 
+- Out of the fifty states in the US, 32 states expanded their Medicaid programs to cover individuals with limited income and resources at a certain threshold point. 
 - 17 million individuals were enrolled in the Medicaid program between 2013 to 2018.
 - Many States that have expanded Medicaid have experienced a notable reduction in uninsured rates among their populations except Florid. The data suggests that there is a strong correlation between the expansion of the Medicaid program and the decline in the number of uninsured individuals, conversely, states with non-expanded Medicaid programs have a high number of uninsured individuals.
   
