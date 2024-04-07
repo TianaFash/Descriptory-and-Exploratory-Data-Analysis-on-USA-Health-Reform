@@ -54,7 +54,7 @@ Florida leads in Marketplace health insurance coverage, providing coverage to ov
 
 ![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/0f9111e3-b12c-4d2b-8878-962468d64a2d)
 
-#The Final Dashboard
+# The Final Dashboard
 
 ![image](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/76c68da1-2074-442e-a350-8ed28377e9c1)
 
@@ -75,6 +75,8 @@ The Affordable Care Act (ACA) has had a significant impact on the health insuran
 **Address Coverage Gaps**: Identify and implement targeted strategies to address persistent coverage gaps, ensuring that vulnerable populations, including those with low income or pre-existing conditions, receive adequate coverage.
 
 By following these recommendations, states and federal policymakers can work towards sustaining and improving the gains made in health insurance coverage, ultimately leading to a healthier population with better access to necessary medical care.
+
+#### Thank you for taking the time to explore this project. Your interest and attention are truly appreciated. Should you have any insights or suggestions to enhance this project, I am eager to engage and exchange ideas with you. Please feel free to reach out via email at tianafashola@outlook.com. I am genuinely looking forward to hearing your perspectives and collaborating further on similar projects.
 
 
   
