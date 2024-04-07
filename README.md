@@ -28,9 +28,20 @@ Microsoft PowerBI
 5.	**Created New Column**: Introduced a new column to replace the Medicaid Enrollment Change column. This was done to categorize and sort the instances where there were blank cells identified in the Medicaid Enrollment column for the year 2013. This column enables a more complete and accurate analysis of the data points.
 
 ## Descriptive and Exploratory Analysis
-The combination of descriptive and exploratory analyses provides valuable insights into the trends, identifies causal relationship between new policy implementation and health insurance outcomes across various states as well as address pertinent questions:
+The combination of descriptive and exploratory analyses provides valuable insights into the trends, identifies the causal relationship between new policy implementation and health outcomes across various states as well as addresses pertinent questions:
 - How has the Affordable Care Act changed the rate of citizens with health insurance coverage? 
-- Which states observed the greatest decline in their uninsured rate? 
+- Which states observed the greatest and least decline in their uninsured rate? 
 - Did those states expand Medicaid program coverage?
+## Key Findings
+**Significant Increase in Health Coverage:** Following the implementation of the ACA, a significant increase in health insurance coverage was seen. Specifically, approximately 20 million more individuals obtained health insurance coverage nationwide within five years demonstrating the ACA's substantial impact on coverage rates.
+In 2016, the total enrollment in Medicare was 56 million and total employer healthcare coverage was 172 million, which offers a broader context to the positive impact of ACA in increasing coverage.
+
+**State-specific Reduction in Uninsured Rates:** The states below showed the most significant decrease in the percentage of uninsured residents reflecting the ACA's effectiveness in expanding coverage. Specifically, Nevada experienced the greatest decline in uninsured individuals between 2010 to 2015 with a percentage decrease of 10.30%. 
+
+
+
+
+
+
 
 
