@@ -46,7 +46,7 @@ In 2016, the total enrollment in Medicare was 56 million and total employer heal
   ![ACA_Significant Reductions](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/157f552a-6960-43e9-8763-434dfe569f2b)
 
 **Impact of Medicaid Expansion Program**
-- Out of the fifty states in the US, 32 states expanded their Medicaid programs to cover individuals with limited income and resources at a certain threshold point. 
+- Out of the fifty states in the US and the District of Columbia, 32 states expanded their Medicaid programs to cover individuals with limited income and resources at a certain threshold point. 
 - 17 million individuals were enrolled in the Medicaid program between 2013 to 2018.
 - Many States that have expanded Medicaid have experienced a notable reduction in uninsured rates among their populations except Florid. The data suggests that there is a strong correlation between the expansion of the Medicaid program and the decline in the number of uninsured individuals, conversely, states with non-expanded Medicaid programs have a high number of uninsured individuals.
   
