@@ -4,7 +4,7 @@ The Affordable Care Act (ACA), commonly called Obamacare, was signed into law on
 
 Researchers, policymakers, and analysts can utilize the dataset provided in this project to gain comprehensive insights into the ACA's effectiveness in improving health insurance coverage. Furthermore, this dataset serves as a crucial resource for informing future healthcare policy decisions.
 ## Project Overview
-This analysis explores the impact of the Affordable Care Act (ACA) over 5 years post-implementation, focusing on key metrics such as health coverage, Medicaid expansion, and marketplace provided insurance. It aims to understand how the ACA has influenced health insurance coverage in the United States. It examines trends such as changes in insured individuals, shifts in Medicaid enrollment, and variations in uninsured rates across states.
+This analysis explores the impact of the Affordable Care Act (ACA) over 5 years post-implementation, focusing on key metrics such as health coverage, Medicaid expansion, and marketplace-provided insurance. It aims to understand how the ACA has influenced health insurance coverage in the United States. It examines trends such as changes in insured individuals, shifts in Medicaid enrollment, and variations in uninsured rates across states.
 
 The analysis investigates the relationship between the implementation of Medicaid expansion in 2016 and changes in uninsured rates across states by comparing the uninsured rate change trends from 2010 to 2015 with the Medicaid expansion status in 2016, insights are drawn regarding the effectiveness of Medicaid expansion in reducing the uninsured population.
 Utilizing a comprehensive dataset, this analysis provides insights into health insurance coverage data for each state and the nation. This includes variables such as uninsured rates post-ACA, estimates of individuals covered by employer and marketplace healthcare plans, and enrollment in Medicare and Medicaid programs.
@@ -52,7 +52,7 @@ In 2016, the total enrollment in Medicare was 56 million and total employer heal
   
 ![ACA_Highest Uninsured Rate_2010_2015](https://github.com/TianaFash/Impact-of-the-Affordable-Care-Act-on-Coverage-A-Five-Year-Post-Implementation-Analysis/assets/166267039/8f6162f1-8a5c-49d2-8eba-6080c15c174c)
 
-**Highest Market Place**
+**Highest Marketplace Insurance**
 
 Florida leads in Marketplace health insurance coverage, providing coverage to over 1.5 million individuals. Following closely, California tops with approximately 1.4 million individuals covered, trailed by Texas with 1.1 million, North Carolina with 545 thousand, and Georgia with 478 thousand individuals covered, respectively. The data suggests that a significant number of people in these states are utilizing the ACA marketplace for their health insurance.
 
