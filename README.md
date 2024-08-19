@@ -82,7 +82,7 @@ The Affordable Care Act (ACA) has had a significant impact on the health insuran
 
 ---
 
-#### Thank you for taking the time to explore this project😄. Your interest and attention are truly appreciated. Should you have any insights or suggestions to enhance this project, I am eager to engage and exchange ideas with you. Please feel free to reach out via email at tiana.fashola@outlook.com. I am genuinely looking forward to hearing your perspectives and collaborating further on similar projects.
+#### Thank you for taking the time to explore this project😄. Your interest and attention are truly appreciated. Should you have any insights or suggestions to enhance this project, I am eager to engage and exchange ideas with you. I am genuinely looking forward to hearing your perspectives and collaborating further on similar projects.
 
 
   
